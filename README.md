@@ -5,5 +5,5 @@
 ## Resources
 
 - **Published Paper**: [Link to Paper](#)
-- **Source Code**: [maxmin_chunker.py](#)
-- **Example Usage**: [example_usage.ipynb](#)
+- **Source Code**: [MaxMinChunking/maxmin_chunker.py](#)
+- **Example Usage**: [MaxMinChunking/example_usage.ipynb](#)
