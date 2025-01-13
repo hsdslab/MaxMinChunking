@@ -1,7 +1,9 @@
 # MaxMinChunking
-Efficient document processing for RAG using MaxMin Chunking.
 
-Link of published paper: 
+**Efficient Document Processing for RAG using MaxMin Chunking**
 
-*Source code: maxmin_chunker.py
-*Example usage of chunker: example_usage.ipynb
+## Resources
+
+- **Published Paper**: [Link to Paper](#)
+- **Source Code**: [maxmin_chunker.py](#)
+- **Example Usage**: [example_usage.ipynb](#)
